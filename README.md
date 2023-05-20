@@ -68,4 +68,8 @@
 
 * Anything-3D: Towards Single-view Anything Reconstruction in the Wild [[view]](https://arxiv.org/abs/2304.10261)<a id="1.6.1"></a>
 
+## Autonomous Driving<a id="1.7"></a>
+
+* CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP [[view]](https://arxiv.org/pdf/2301.04926.pdf)<a id="1.7.1"></a>
+
 ### More papers or survey, to be continued...
