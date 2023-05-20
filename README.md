@@ -71,5 +71,7 @@
 ## Autonomous Driving<a id="1.7"></a>
 
 * CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP [[view]](https://arxiv.org/pdf/2301.04926.pdf)<a id="1.7.1"></a>
+* Planning-oriented Autonomous Driving [[view]](https://arxiv.org/abs/2212.10156)<a id="1.7.2"></a>
+* ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries [[view]](https://arxiv.org/abs/2208.01582)<a id="1.7.3"></a>
 
 ### More papers or survey, to be continued...
