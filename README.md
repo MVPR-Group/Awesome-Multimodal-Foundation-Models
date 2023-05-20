@@ -26,6 +26,10 @@
     - [1.5.5 BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](#1.5.5)
   - [1.6 3D Field ](#1.6)
     - [1.6.1 Anything-3D: Towards Single-view Anything Reconstruction in the Wild](#1.6.1)
+  - [1.8 Diffusion](#1.8)
+    - [1.8.1 DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models](#1.8.1)
+    - [1.8.2 DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation](#1.8.2)
+    - [1.8.3 Scalable Diffusion Models with Transformers](#1.8.3)
 
 # Review<a id="1"></a>
 
@@ -73,5 +77,11 @@
 * CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP [[view]](https://arxiv.org/pdf/2301.04926.pdf)<a id="1.7.1"></a>
 * Planning-oriented Autonomous Driving [[view]](https://arxiv.org/abs/2212.10156)<a id="1.7.2"></a>
 * ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries [[view]](https://arxiv.org/abs/2208.01582)<a id="1.7.3"></a>
+
+## Diffusion<a id="1.8"></a>
+
+* DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models [[view]](https://arxiv.org/abs/2211.15029)<a id="1.8.1"></a>
+* DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation [[view]](https://arxiv.org/abs/2110.02711)<a id="1.8.2"></a>
+* Scalable Diffusion Models with Transformers [[view]](https://arxiv.org/abs/2212.09748)<a id="1.8.3"></a>
 
 ### More papers or survey, to be continued...
