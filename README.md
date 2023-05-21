@@ -71,6 +71,8 @@
 ## 3D<a id="1.6"></a>
 
 * Anything-3D: Towards Single-view Anything Reconstruction in the Wild [[view]](https://arxiv.org/abs/2304.10261)<a id="1.6.1"></a>
+* Point-E- A System for Generating3D Point Clouds from Complex [[view]](https://arxiv.org/abs/2212.08751)<a id="1.6.1"></a>
+* Shap-E: Generating Conditional 3D Implicit Functions [[view]](https://arxiv.org/abs/2305.02463)<a id="1.6.1"></a>
 
 ## Autonomous Driving<a id="1.7"></a>
 
