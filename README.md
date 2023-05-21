@@ -26,6 +26,8 @@
     - [1.5.5 BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](#1.5.5)
   - [1.6 3D Field ](#1.6)
     - [1.6.1 Anything-3D: Towards Single-view Anything Reconstruction in the Wild](#1.6.1)
+    - [1.6.2 Point-E- A System for Generating3D Point Clouds from Complex](#1.6.2)
+    - [1.6.3 Shap-E: Generating Conditional 3D Implicit Functions](#1.6.3)
   - [1.8 Diffusion](#1.8)
     - [1.8.1 DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models](#1.8.1)
     - [1.8.2 DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation](#1.8.2)
