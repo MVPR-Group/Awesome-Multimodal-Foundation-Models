@@ -28,6 +28,11 @@
     - [1.6.1 Anything-3D: Towards Single-view Anything Reconstruction in the Wild](#1.6.1)
     - [1.6.2 Point-E- A System for Generating3D Point Clouds from Complex](#1.6.2)
     - [1.6.3 Shap-E: Generating Conditional 3D Implicit Functions](#1.6.3)
+  - [1.7 Autonomous Driving ](#1.7)
+    - [1.7.1 CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP](#1.7.1)
+    - [1.7.2 UniAD：Planning-oriented Autonomous Driving](#1.7.2)
+    - [1.7.3 ST-P3: End-to-end Vision-based Autonomous Driving via Spatial-Temporal Feature Learning](#1.7.3)
+    - [1.7.4 ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries](#1.7.4)
   - [1.8 Diffusion](#1.8)
     - [1.8.1 DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models](#1.8.1)
     - [1.8.2 DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation](#1.8.2)
@@ -79,8 +84,9 @@
 ## Autonomous Driving<a id="1.7"></a>
 
 * CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP [[view]](https://arxiv.org/pdf/2301.04926.pdf)<a id="1.7.1"></a>
-* Planning-oriented Autonomous Driving [[view]](https://arxiv.org/abs/2212.10156)<a id="1.7.2"></a>
-* ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries [[view]](https://arxiv.org/abs/2208.01582)<a id="1.7.3"></a>
+* UniAD：Planning-oriented Autonomous Driving [[view]](https://arxiv.org/abs/2212.10156)<a id="1.7.2"></a>
+* ST-P3: End-to-end Vision-based Autonomous Driving via Spatial-Temporal Feature Learning [[view]](https://arxiv.org/pdf/2207.07601.pdf)<a id="1.7.3"></a>
+* ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries [[view]](https://arxiv.org/abs/2208.01582)<a id="1.7.4"></a>
 
 ## Diffusion<a id="1.8"></a>
 
