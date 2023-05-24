@@ -94,4 +94,8 @@
 * DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation [[view]](https://arxiv.org/abs/2110.02711)<a id="1.8.2"></a>
 * Scalable Diffusion Models with Transformers [[view]](https://arxiv.org/abs/2212.09748)<a id="1.8.3"></a>
 
+## Medical<a id="1.8"></a>
+
+* Segment Anything in Medical Images [[view]](https://arxiv.org/abs/2304.12306)<a id="1.8.1"></a>
+
 ### More papers or survey, to be continued...
